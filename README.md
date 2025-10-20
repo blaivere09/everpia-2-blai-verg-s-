@@ -151,3 +151,8 @@ Els productes finals i el seu pes en l’avaluació del projecte són els següe
 
 
 
+
+
+
+
+
