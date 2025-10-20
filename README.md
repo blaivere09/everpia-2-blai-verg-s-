@@ -149,7 +149,7 @@ Els productes finals i el seu pes en l’avaluació del projecte són els següe
 📘 *Projecte desenvolupat dins del marc d’EverPia 2 — Formació tècnica en sistemes, xarxes i serveis corporatius.*
 
 
-
+[tasca1](T01)
 
 
 
