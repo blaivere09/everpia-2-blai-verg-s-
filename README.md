@@ -1,188 +1,153 @@
-projecte-3/
-└── tasca01/
-    ├── README.md
-    ├── informe.md
-    ├── guia.md
-    └── img/
-        ├── bitwarden-instal·lacio.png
-        ├── bitwarden-generador.png
-        ├── bitwarden-guardar-credencial.png
-        ├── bitwarden-autofill.png
-        └── bitwarden-backup.png
-
-
-
-        
-# T01: Gestor de contrasenyes
-
-## Descripció
-Aquesta tasca sorgeix arran d’un incident de seguretat sofert per EverPia, en què una contrasenya feble o reutilitzada va permetre a atacants accedir a informació confidencial.  
-Com a resposta, la Direcció Tècnica ha ordenat l’ús obligatori d’un **gestor de contrasenyes** per al personal tècnic.  
-
-L’objectiu d’aquesta activitat és:
-1. Analitzar i justificar tècnicament l’ús d’un gestor de contrasenyes.
-2. Elaborar una guia pràctica d’ús per a l’eina seleccionada.
+# 🧩 **DESCRIPCIÓ DEL PROJECTE**  
+## **EverPia 2: “Sobreviure en una empresa IT”**
 
 ---
 
-## Fitxers
+### 🌐 Context i introducció
+Després de mesos de feina intensa, nits de pizza i *commits* a última hora, **EverPia** ha viscut el seu primer gran èxit.  
+Els clients estan contents, les presentacions han triomfat i, fins i tot, els tècnics han aconseguit fer funcionar el servidor… **sense reiniciar-lo cada cinc minuts.**  
+Un miracle digne d’estudi.  
 
-- [`informe.md`](./informe.md): Anàlisi i justificació tècnica (Fase 1)
-- [`guia.md`](./guia.md): Guia tècnica d’ús (Fase 2)
-- Carpeta [`img/`](./img): Conté les captures de pantalla de la guia.
+> “Quan tot funciona, és que no ho has mirat prou bé.” — *Lleialtat del sector IT.*
 
----
+El primer projecte va ser un èxit.  
+Aquest segon… és **una prova de supervivència.**
 
-## Eina escollida
-Després d’una comparativa entre **Bitwarden** i **KeePassXC**, s’ha escollit **Bitwarden** com a solució recomanada per al personal tècnic d’EverPia, per la seva seguretat E2E, sincronització multi-dispositiu i facilitat de gestió centralitzada.
+Benvinguts a **EverPia 2: “Sobreviure en una empresa IT”**, una simulació (massa realista) del que passa quan una empresa tecnològica comença a créixer i a rebre més clients dels que pot gestionar.
 
+Quan el volum augmenta, els problemes també.  
+I quan els servidors cremen... **vosaltres sou els bombers digitals.**
 
+EverPia ja no és una petita consultora. Ara gestiona clients, contractes i serveis crítics 24/7.  
+L’equip ha crescut, els projectes s’han multiplicat i el pressupost... bé, **segueix sent el mateix.**
 
+Els antics alumnes (vosaltres) heu ascendit. Sou els **tècnics júnior del departament IT**, i us acaben d’assignar el vostre primer gran repte: **mantenir viva la infraestructura d’EverPia.**
 
+El vostre dia a dia?  
+Apagar focs, resoldre incidències, respondre *tickets*, mantenir sistemes, documentar-ho tot (abans que algú formategi per error) i, si queda temps... **aprendre a no perdre els nervis.**
 
-
-# Informe Tècnic: Gestor de Contrasenyes
-
-## 1. Introducció i Justificació
-
-Les contrasenyes febles o reutilitzades constitueixen una de les principals causes de **compromís de comptes corporatius**.  
-Aquests atacs aprofiten vulnerabilitats com:
-- **Atacs de diccionari**: proves automatitzades amb contrasenyes comunes (p. ex. “123456”, “password”).
-- **Credential stuffing**: reutilització de contrasenyes filtrades en altres webs.
-- **Phishing**: enginyeria social per obtenir credencials reutilitzades.
-
-### Riscos associats
-- Accés no autoritzat a dades internes.
-- Escalada de privilegis dins la xarxa.
-- Interrupció d’operacions i dany reputacional.
-
-### Solució
-L’ús d’un **gestor de contrasenyes** permet:
-- Generar contrasenyes úniques i complexes.
-- Emmagatzemar-les de manera segura amb **xifratge fort**.
-- Reduir la dependència de la memòria humana i les repeticions.
+És la vida real dins d’una empresa IT:  
+💻 *el caos ben documentat.*
 
 ---
 
-## 2. Comparativa Tècnica
+## 🎯 **Missió del projecte**
 
-| Característica | **Bitwarden (Online)** | **KeePassXC (Offline)** |
-|----------------|------------------------|--------------------------|
-| **Model de funcionament** | Núvol / multi-dispositiu | Escriptori / arxiu local |
-| **Xifratge** | AES-256 + E2E encryption | AES-256 local |
-| **Accés multiplataforma** | Sí (web, app, navegador, mòbil) | Sí (Windows, Linux, macOS) |
-| **Còpia de seguretat** | Automàtica al núvol | Manual (fitxer .kdbx) |
-| **Codi obert** | Sí (open source) | Sí (open source) |
-| **Autenticació 2FA** | Sí | Limitada |
-| **Model freemium** | Gratuït amb opcions Premium | Totalment gratuït |
-| **Dependència del núvol** | Sí | No |
-| **Sincronització** | Automàtica entre dispositius | Manual |
-| **Administració d’equip** | Sí (Bitwarden Organizations) | No nativa |
+Aquest projecte és la **segona temporada** d’una sèrie que acaba d’arrencar.  
+Si *EverPia 1* era sobre **construir**, *EverPia 2* és sobre **sobreviure.**
+
+### La vostra missió és demostrar que sou capaços de:
+- 🧠 Resoldre problemes reals d’una infraestructura IT.  
+- ⚙️ Gestionar serveis essencials (DNS, LDAP, LVM…).  
+- 🧩 Treballar amb rigor tècnic i metodologia àgil.  
+- 😌 Mantenir la calma mentre tot sembla fallar.  
+
+> Perquè el coneixement és important, sí, però la serenitat... és un servei *premium.*
 
 ---
 
-## 3. Avantatges i Inconvenients
+## 💡 **Objectius formatius**
 
-| Model | Avantatges | Inconvenients |
-|--------|-------------|----------------|
-| **Bitwarden (Online)** | - Sincronització automàtica<br>- Xifratge E2E<br>- Fàcil d’administrar equips<br>- Compatible amb tots els dispositius | - Requereix connexió a Internet<br>- Dependència del servidor del proveïdor |
-| **KeePassXC (Offline)** | - Control total de les dades<br>- No depèn d’un núvol extern<br>- Portable (fitxer .kdbx) | - Sense sincronització automàtica<br>- Gestió manual de còpies de seguretat<br>- Pot ser menys intuïtiu per a usuaris no tècnics |
+- Consolidar coneixements avançats en **sistemes, xarxes i serveis corporatius**.  
+- Aplicar tècniques reals de **manteniment i optimització de servidors**.  
+- Aprendre a **resoldre problemes complexos sota pressió.**  
+- Practicar la **documentació tècnica professional** amb *GitHub* i *Markdown*.  
+- Desenvolupar competències clau: **treball en equip, responsabilitat, organització i autonomia.**
 
----
+A **EverPia 2** ja no hi ha professors:  
+hi ha **caps de projecte, companys de suport tècnic i clients impacients.**
 
-## 4. Recomanació
+> 🧩 Cada error és una oportunitat per aprendre.  
+> 💀 Cada “pantalla blava” és un examen de serenitat.  
+> 🏆 Cada “no sé què ha passat, però ara funciona” és un triomf silenciós.
 
-Després de l’anàlisi, **es recomana l’ús de Bitwarden** per al personal tècnic d’EverPia.  
-Els motius principals són:
-- **Model de seguretat robust** (xifratge E2E).
-- **Facilitat d’ús i adopció** per part de l’equip.
-- **Sincronització automàtica** entre dispositius corporatius.
-- Possibilitat de **gestió centralitzada d’equips**.
+Aquest projecte no és només un conjunt de pràctiques:  
+és una **immersió total** en el món real de les empreses IT.  
 
-Per a entorns crítics sense connexió a Internet (p. ex. laboratoris aïllats), KeePassXC podria considerar-se com a complement offline.
+Aprendreu que **no n’hi ha prou amb saber instal·lar**, sinó que cal **entendre, prevenir i comunicar.**
 
----
-
-
-
-
-
-# Guia d’Ús: Bitwarden per a l’Equip Tècnic
-
-## 1. Instal·lació i Configuració Inicial
-
-1. Accediu a [https://bitwarden.com/download/](https://bitwarden.com/download/).
-2. Descarregueu la versió per al vostre sistema operatiu.
-3. Instal·leu l’aplicació i creeu un compte amb un **correu corporatiu**.
-4. Definiu una **contrasenya mestra robusta**:
-   - Mínim 14 caràcters.
-   - Combinació de majúscules, minúscules, números i símbols.
-5. Activeu la **verificació en dos passos (2FA)**.
-
-📸 *Vegeu la imatge `img/bitwarden-instal·lacio.png`.*
+> “Si sobrevius a això... pots sobreviure a qualsevol empresa.” — *Lema d’EverPia*
 
 ---
 
-## 2. Generació de Contrasenyes Segures
+## ✨ **Epíleg: L’oportunitat**
 
-1. A l’aplicació, feu clic a **Generador de contrasenyes**.
-2. Configureu els paràmetres:
-   - Longitud: recomanat 16–20 caràcters.
-   - Incloure símbols i números.
-3. Copieu i deseu la contrasenya al vostre element de Bitwarden.
+Sí, és dur.  
+Sí, hi haurà moments en què voldreu **llençar el teclat per la finestra.**  
 
-📸 *`img/bitwarden-generador.png`.*
+Però també descobrireu què significa treballar com a **autèntics professionals del món IT**:  
+analitzar, decidir, coordinar i mantenir sistemes crítics.
 
----
+A més, **EverPia** segueix sent una de les millors empreses on començar:  
+on **cada projecte és una història**,  
+**cada error és una lliçó**,  
+i **cada tècnic… un heroi anònim del backend.**
 
-## 3. Desar Credencials i Emplenament Automàtic
-
-### a. Desar un compte de correu
-1. Feu clic a “Afegir element”.
-2. Introduïu:
-   - Nom: “Compte corporatiu”.
-   - Usuari: `usuari@everpia.com`
-   - Contrasenya: generada prèviament.
-3. Deseu l’element.
-
-📸 *`img/bitwarden-guardar-credencial.png`.*
-
-### b. Desar un servei web
-- Bitwarden detecta automàticament els formularis de login.
-- Quan accediu a un lloc nou, el navegador oferirà **“Guardar al Bitwarden”**.
-
-### c. Emplenament automàtic
-1. Instal·leu l’extensió de Bitwarden al navegador.
-2. Inicieu sessió.
-3. Quan entreu a un web conegut, premeu `Ctrl + Shift + L` per emplenar automàticament les dades.
-
-📸 *`img/bitwarden-autofill.png`.*
+🔥 *Benvinguts a EverPia 2: “Sobreviure en una empresa IT”*  
+El foc ja està encès. Ara és el vostre torn d’agafar **l’extintor... i el teclat.**
 
 ---
 
-## 4. Gestió de Còpies de Seguretat (Backup)
+## 🧾 **Avaluació i Productes Finals**
 
-### a. Exportar dades
-1. A l’aplicació d’escriptori, aneu a **Configuració → Eines → Exportar vault**.
-2. Seleccioneu format `.json` o `.csv` (xifrat).
-3. Deseu-lo temporalment.
+Els productes finals i el seu pes en l’avaluació del projecte són els següents:
 
-### b. Emmagatzematge segur
-- **Opció recomanada:** guardar la còpia en una **clau USB xifrada**.
-- Alternativament, pujar-la a un **núvol xifrat** (p. ex. Tresorit o OneDrive amb BitLocker).
+| Tipus de treball | Descripció | Percentatge |
+|------------------|-------------|--------------|
+| **Treball Individual** | Tasques personals i informes tècnics | **60%** |
+| **Treball en Equip** | Coordinació, documentació i resultats col·lectius | **40%** |
 
-📸 *`img/bitwarden-backup.png`.*
+> ⚠️ *Cal obtenir una nota mínima de 4 al treball individual per poder fer mitjana amb el treball en equip.*
 
 ---
 
-## 5. Bones pràctiques
+### 📊 **Desglossament de Productes Finals**
 
-✅ No reutilitzeu mai contrasenyes.  
-✅ No compartiu la contrasenya mestra.  
-✅ Activeu sempre l’autenticació 2FA.  
-✅ Manteniu el programari actualitzat.
+| Producte | Descripció | % |
+|-----------|-------------|--:|
+| **CPS** | Competències personals i socials | 5% |
+| **Kanban** | Tauler de gestió del projecte | 5% |
+| **Repo del projecte** | Repositori GitHub amb tota la documentació | 15% |
+| **Web rèplica** | Rèplica tècnica de la web d’EverPia | 5% |
+| **Conf. DNS** | Configuració del servidor DNS | 30% |
+| **Comparativa Emmagatzematge Win–Lin** | Presentació comparativa | 15% |
+| **Solució sostenible TecnoGestió** | Infografia sostenible (GitHub) | 15% |
+| **Vídeo per parelles** | Explicació dels fonaments del DNS | 10% |
 
 ---
+
+## 🧰 **Tasques a Desenvolupar**
+
+| Codi | Tasca | Descripció breu |
+|------|--------|----------------|
+| **T01** | Gestors de contrasenyes | Avaluar i documentar eines com Bitwarden o KeePassXC |
+| **T02** | Gestió de l’emmagatzematge | Sessions teòriques sobre tipus i estructures |
+| **T03** | Gestió flexible de discos | LVM i Espais d’emmagatzematge |
+| **T04** | Serveis de Directori (LDAP) | Implementació i configuració |
+| **T05** | Anàlisi de l’entorn | Models de negoci per a clients tecnològics |
+| **T06** | Fonaments del DNS | Teoria i pràctiques inicials |
+| **T07** | Servidor de noms | Instal·lació i configuració d’un DNS |
+| **T08** | Sitemaps i infraestructura web | Estructura tècnica d’una web corporativa |
+| **T09** | Càlcul de la petjada | Sostenibilitat i eficiència energètica IT |
+
+---
+
+## 🏁 **Productes Finals a Lliurar**
+
+| Codi | Producte | Descripció |
+|------|-----------|------------|
+| **P01** | Kanban del projecte | Tauler de seguiment amb tasques i estat |
+| **P02** | Repositori GitHub | Conté tota la documentació del projecte |
+| **P03** | Rèplica de la web | Implementació tècnica de la pàgina d’EverPia |
+| **P04** | Configuració DNS | Servidor de noms funcional i documentat |
+| **P05** | Presentació comparativa | LVM vs Espais d’emmagatzematge (Win–Lin) |
+| **P06** | Vídeo per parelles | Fonaments del DNS explicats en equip |
+| **P07** | Infografia de sostenibilitat | Solució gràfica sobre gestió verda i responsable |
+
+---
+
+📘 *Projecte desenvolupat dins del marc d’EverPia 2 — Formació tècnica en sistemes, xarxes i serveis corporatius.*
+
 
 
 
