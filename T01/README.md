@@ -71,3 +71,4 @@ Crear una **Guia d'Ús** amb instruccions clares i captures de pantalla.
 
 Dins el repositori del **projecte-3**:
 
+![captura1](img/capt1.png)
