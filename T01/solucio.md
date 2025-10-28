@@ -154,3 +154,4 @@ A la barra de cerca, escriu:
 
 Un cop descarregat, he creat un compte nou i li he posat un correu i una contrasenya per poder accedir.
 
+![captura4](img/capt4.png)
