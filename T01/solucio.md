@@ -137,11 +137,13 @@ L’objectiu és assegurar que:
 
 ---
 
-### 🔹 2. Instal·lació de Bitwarden
+# 🧭 Fase 2: Guia d'Ús Tècnica (Manual Operatiu)
 
-#### 2.1. Descàrrega
+## Instal·lació Bitwarden
 
-1. Obre el navegador web i accedeix a **Google**.  
-2. Escriu a la barra de cerca:  
+En primer lloc, obre el navegador i accedeix al **buscador Google**.  
+A la barra de cerca, escriu:
+
+
 
 ![captura2](img/capt2.png)
