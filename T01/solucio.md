@@ -147,3 +147,4 @@ A la barra de cerca, escriu:
 
 
 ![captura2](img/capt2.png)
+![captura3](img/capt3.png)
