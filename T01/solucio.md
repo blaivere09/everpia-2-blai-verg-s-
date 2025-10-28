@@ -163,3 +163,5 @@ Aquí es pot veure que ja estic dins de Bitwarden i que puc manipular paràmetre
 ![captura5](img/capt5.png)
 
 Desar una credencial i he  accedit un altre cop amb el meu correu i la meva contrasenya. A lloc web he posat www.everpia.com
+
+![captura6](img/capt6.png)
