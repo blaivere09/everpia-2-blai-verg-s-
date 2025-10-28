@@ -121,3 +121,26 @@ La implantació de **Bitwarden** a EverPia permetrà:
 📄 *Informe elaborat per:* **[Nom de l’estudiant]**  
 📅 *Data:* **28/10/2025**  
 🏢 *Empresa:* **EverPia**
+
+# 🧭 Fase 2: Guia d’Ús Tècnica (Manual Operatiu)
+## Implementació i Ús de Bitwarden per al Personal Tècnic d’EverPia
+
+---
+
+### 🔹 1. Objectiu del Manual
+Aquest document té com a objectiu **guiar el personal tècnic d’EverPia** en la instal·lació, configuració i ús segur del **gestor de contrasenyes Bitwarden**, segons la política interna de seguretat aprovada després de la fuita d’informació.
+
+L’objectiu és assegurar que:
+- Totes les credencials siguin **robustes, úniques i xifrades**.
+- Es garanteixi una **gestió centralitzada i segura** de les contrasenyes corporatives.
+- El procés d’ús sigui **senzill i homogeni** entre tot el personal tècnic.
+
+---
+
+### 🔹 2. Instal·lació de Bitwarden
+
+#### 2.1. Descàrrega
+
+1. Obre el navegador web i accedeix a **Google**.  
+2. Escriu a la barra de cerca:  
+
