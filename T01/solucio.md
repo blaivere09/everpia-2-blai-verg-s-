@@ -144,3 +144,4 @@ L’objectiu és assegurar que:
 1. Obre el navegador web i accedeix a **Google**.  
 2. Escriu a la barra de cerca:  
 
+![captura2](img/capt2.png)
