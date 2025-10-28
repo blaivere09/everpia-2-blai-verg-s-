@@ -148,3 +148,9 @@ A la barra de cerca, escriu:
 
 ![captura2](img/capt2.png)
 ![captura3](img/capt3.png)
+
+
+
+
+Un cop descarregat, he creat un compte nou i li he posat un correu i una contrasenya per poder accedir.
+
