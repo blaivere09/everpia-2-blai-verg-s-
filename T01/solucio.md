@@ -159,3 +159,5 @@ Un cop descarregat, he creat un compte nou i li he posat un correu i una contras
 
 
 Aquí es pot veure que ja estic dins de Bitwarden i que puc manipular paràmetres i realitzar accions dins de l’aplicació.
+
+![captura5](img/capt5.png)
