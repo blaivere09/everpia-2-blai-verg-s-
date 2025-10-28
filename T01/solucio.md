@@ -165,3 +165,8 @@ Aquí es pot veure que ja estic dins de Bitwarden i que puc manipular paràmetre
 Desar una credencial i he  accedit un altre cop amb el meu correu i la meva contrasenya. A lloc web he posat www.everpia.com
 
 ![captura6](img/capt6.png)
+
+
+
+Per canviar una contrasenya, he creat un repositori on em demanen les credencials i les he omplert per dur a terme el canvi de contrasenya que necessiti.
+
