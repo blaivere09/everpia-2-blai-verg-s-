@@ -21,7 +21,7 @@
 
 En aquesta guia veurem el **procés complet** per instal·lar, configurar i provar un servei de directori basat en **OpenLDAP** en un entorn **GNU/Linux**.
 
----
+
 
 En primer lloc, he creat una màquina nova i li he posat el nom de:  
 **T04: Serveis de directori - LDAP** 🖥️  
