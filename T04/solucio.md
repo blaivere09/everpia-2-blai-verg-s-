@@ -1,3 +1,5 @@
+![captura2](img/capt2.png)
+
  **Aquí podràs trobar la tasca 04 i la seva correcció.** ✅
 
 # 🧩 **T04: Serveis de Directori - LDAP**
@@ -12,4 +14,3 @@
 - Gestió amb **LDAP Account Manager (LAM)**  
 - Integració d’un client Ubuntu amb autenticació LDAP  
 
-![captura2](img/capt2.png)
