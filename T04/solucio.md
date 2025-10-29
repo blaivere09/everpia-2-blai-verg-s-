@@ -58,3 +58,11 @@ sudo apt install slapd ldap-utils -y
 
 ```
 ![captura6](img/capt6.png)
+
+# ✅ Comprovació del servei OpenLDAP
+
+Per verificar que el servei **OpenLDAP (slapd)** està funcionant correctament, he executat:
+
+```bash
+systemctl status slapd
+
