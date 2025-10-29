@@ -56,5 +56,5 @@ Per instal·lar el servei **slapd** i les utilitats **ldap-utils**, he executat 
 ```bash
 sudo apt install slapd ldap-utils -y
 
-````
-![captura6](capt6.png)
+```
+![captura6](img/capt6.png)
