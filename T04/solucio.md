@@ -11,3 +11,5 @@
 - Creació d’Unitats Organitzatives (OUs), usuaris i grups  
 - Gestió amb **LDAP Account Manager (LAM)**  
 - Integració d’un client Ubuntu amb autenticació LDAP  
+
+![captura2](img/capt2.png)
