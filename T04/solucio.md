@@ -35,4 +35,5 @@ Per canviar el nom del servidor de `server` a `server.innovatech25.test`, he fet
 
 ```bash
 sudo nano /etc/hosts
-
+````
+![captura3](img/capt3.png)
