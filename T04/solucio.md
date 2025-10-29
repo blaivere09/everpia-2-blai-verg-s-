@@ -66,3 +66,5 @@ Per verificar que el servei **OpenLDAP (slapd)** està funcionant correctament, 
 ```bash
 systemctl status slapd
 
+```
+
