@@ -42,3 +42,5 @@ Després de canviar el nom del servidor, he **aturat la màquina** per entrar a 
 
 - **Primer adaptador:** NAT (per accés a Internet i descàrrega de paquets)  
 - **Segon adaptador:** Host-Only / Amfitrió (per a comunicació privada amb la màquina física)
+
+![captura5](img/capt5.png)
