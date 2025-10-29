@@ -48,3 +48,11 @@ Després de canviar el nom del servidor, he **aturat la màquina** per entrar a 
 ![captura5](img/capt5.png)
 
 ---
+
+# 🛠️ Instal·lació OpenLDAP
+
+Per instal·lar el servei **slapd** i les utilitats **ldap-utils**, he executat la següent comanda:
+
+```bash
+sudo apt install slapd ldap-utils -y
+
