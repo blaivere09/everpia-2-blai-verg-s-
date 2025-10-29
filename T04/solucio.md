@@ -67,4 +67,4 @@ Per verificar que el servei **OpenLDAP (slapd)** està funcionant correctament, 
 systemctl status slapd
 
 ```
-
+![captura7](img/capt7.png)
