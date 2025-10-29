@@ -1,3 +1,7 @@
+
+![captura1](img/capt1.png)
+
+
 # **Plec de Condicions Tècniques (PCT)**
 
 **Projecte:** Implementació del Servei de Directori LDAP per a Entorn de Proves *Innovatech*  
