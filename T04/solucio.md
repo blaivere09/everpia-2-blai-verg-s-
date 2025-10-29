@@ -15,7 +15,8 @@
 
 ![captura2](img/capt2.png)
 
-
+```bash
+```
 
 # 📝 Sobre aquesta guia
 
