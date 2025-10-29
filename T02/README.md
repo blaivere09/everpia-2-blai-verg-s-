@@ -1,5 +1,4 @@
 
-![captura1](img/capt1.png)
 
 
 # **Plec de Condicions Tècniques (PCT)**
