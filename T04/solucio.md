@@ -15,8 +15,7 @@
 
 ![captura2](img/capt2.png)
 
-```bash
-```
+---
 
 # 📝 Sobre aquesta guia
 
@@ -39,6 +38,8 @@ sudo nano /etc/hosts
 ````
 ![captura3](img/capt3.png)  ![captura4](img/capt4.png)
 
+---
+
 Després de canviar el nom del servidor, he **aturat la màquina** per entrar a l’apartat de **Paràmetres** i he configurat els adaptadors de xarxa 🌐.
 
 - **Primer adaptador:** NAT (per accés a Internet i descàrrega de paquets)  
@@ -46,3 +47,4 @@ Després de canviar el nom del servidor, he **aturat la màquina** per entrar a 
 
 ![captura5](img/capt5.png)
 
+---
