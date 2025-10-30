@@ -79,3 +79,5 @@ sudo dpkg-reconfigure slapd
 ![captura9](img/capt9.png)
 
 ![captura10](img/capt10.png)
+
+![captura11](img/capt11.png)
