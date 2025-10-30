@@ -88,3 +88,6 @@ Per fer la comprovació que el que hem modificat estigui bé, he fet un:
 
 ```bash
 sudo slapcat
+
+```
+![captura13](img/capt13.png)
