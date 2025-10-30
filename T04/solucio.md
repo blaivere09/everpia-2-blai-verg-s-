@@ -83,3 +83,8 @@ sudo dpkg-reconfigure slapd
 ![captura11](img/capt11.png)
 
 ![captura12](img/capt12.png)
+
+Per fer la comprovació que el que hem modificat estigui bé, he fet un:
+
+```bash
+sudo slapcat
