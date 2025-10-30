@@ -68,3 +68,12 @@ systemctl status slapd
 
 ```
 ![captura7](img/capt7.png)
+
+En cas de que haguem posat un nom que no era el correcte, es pot rectificar fent un:
+
+```bash
+sudo dpkg-reconfigure slapd
+```
+dpkg-reconfigure slapd
+
+
