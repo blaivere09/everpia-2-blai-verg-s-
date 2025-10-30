@@ -74,6 +74,5 @@ En cas de que haguem posat un nom que no era el correcte, es pot rectificar fent
 ```bash
 sudo dpkg-reconfigure slapd
 ```
-dpkg-reconfigure slapd
 
 
