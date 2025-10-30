@@ -91,3 +91,11 @@ sudo slapcat
 
 ```
 ![captura13](img/capt13.png)
+
+Algunes eines que ens ofereix **slapcat** són:
+
+1️⃣ **ldapadd**: permet afegir elements al directori.  
+2️⃣ **ldapsearch**: serveix per fer consultes i cercar dins del directori.  
+3️⃣ **ldapdelete**: permet eliminar objectes, inclòs el propi directori.  
+4️⃣ **ldappasswd**: s’utilitza per canviar la contrasenya d’un usuari.  
+5️⃣ **ldapmodify**: serveix per editar una entrada ja existent.
