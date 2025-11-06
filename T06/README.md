@@ -7,7 +7,9 @@ El vostre client, una empresa de màrqueting digital (**DigiCore**), experimenta
 El seu equip tècnic sospita que la causa principal podria ser una **resolució de noms (DNS)** incorrecta o lenta.
 
 Se us ha encarregat **realitzar una auditoria teòrica i pràctica del servei DNS** per tal de formar el personal del client i oferir eines de diagnosi ràpides.
+
 ![captura1](img/capt1.png)
+
 ---
 
 ## 🧠 Fase teòrica: Sessió formativa
