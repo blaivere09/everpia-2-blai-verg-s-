@@ -93,3 +93,4 @@ Com a estudiant en pràctiques, participo en aquest procés d’integració tecn
 
 *(Secció següent)*
 
+![captura4](img/capt4.png)
