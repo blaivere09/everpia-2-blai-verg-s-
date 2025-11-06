@@ -94,3 +94,61 @@ Com a estudiant en pràctiques, participo en aquest procés d’integració tecn
 *(Secció següent)*
 
 ![captura4](img/capt4.png)
+
+---
+
+# 🚀 Estratègia de futur per ETL ILIA
+
+L’empresa **ETL ILIA** té com a objectiu continuar creixent i adaptant-se a un entorn cada cop més digital i competitiu. A continuació es detallen les seves principals línies d’estratègia de futur:
+
+---
+
+### 🌐 1. Fer conèixer més l’empresa
+
+Aprofitar la **xarxa internacional ETL GLOBAL** per arribar a nous mercats i **augmentar la visibilitat**.
+Potenciar la presència digital i la comunicació amb clients d’arreu del territori.
+
+---
+
+### 🤖 2. Aprendre i utilitzar noves tecnologies
+
+Continuar **implementant automatitzacions** i **intel·ligència artificial** per optimitzar processos i millorar la productivitat.
+L’objectiu és oferir un servei més **ràpid, precís i adaptat** a les necessitats dels clients.
+
+---
+
+### 🎓 3. Formació contínua
+
+Promoure que tot l’equip mantingui una **formació constant** en legislació, eines digitals i noves tecnologies.
+Això garanteix una **actualització permanent** davant els canvis normatius i tecnològics.
+
+---
+
+### 💼 4. Oferir més serveis
+
+Ampliar el catàleg de serveis, especialment en àrees emergents com:
+
+* 💰 **Gestió de criptomonedes**
+* 🔐 **Seguretat digital i protecció de dades**
+
+Això permetrà donar un servei **integral i modern** als clients.
+
+---
+
+### 💬 5. Millorar la comunicació
+
+Enfortir la comunicació amb els clients, explicant millor **què fa l’empresa** i **com pot ajudar-los**.
+Potenciar canals digitals i xarxes socials per transmetre **valors i transparència**.
+
+---
+
+### 👥 6. Gestionar bé l’equip
+
+Fer créixer l’equip de manera **intel·ligent i sostenible**, contractant només quan sigui necessari i buscant perfils altament qualificats.
+L’objectiu és **mantenir la qualitat del servei** mentre es dóna resposta a un volum més gran de clients.
+
+---
+
+💡 **Conclusió:**
+Amb aquesta estratègia, ETL ILIA es posiciona com un **referent en consultoria digital i legal**, combinant experiència, innovació i proximitat amb el client.
+
