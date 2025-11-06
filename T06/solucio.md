@@ -26,3 +26,22 @@ El **temps de consulta** va ser de `5 ms`, un resultat molt ràpid.
 El **TTL** indica quant de temps es mantindrà aquesta resposta a la **memòria cau** abans de realitzar una nova consulta. ⚡🧠
 
 ![cptura3](img/capt3.png)
+
+## 🧪 Comanda 2: Consulta de Servidors de Noms (NS)
+
+### 💻 Codi utilitzat
+
+```bash
+dig tecnocampus.cat NS
+```
+
+### 🔍 Anàlisi
+
+El domini **tecnocampus.cat** disposa de **quatre servidors de noms autoritatius**:
+
+* `ns-1689.awsdns-19.co.uk`
+* `ns-535.awsdns-02.net`
+* `ns-1071.awsdns-05.org`
+* `ns-130.awsdns-16.com`
+
+Aquests servidors pertanyen a **AWS (Amazon Web Services)** i són els **responsables finals de proporcionar informació autoritativa** sobre aquest domini. 🌐🛠️
