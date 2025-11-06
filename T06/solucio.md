@@ -151,5 +151,5 @@ També s’ha vist la **diferència entre respostes autoritatives i no autoritat
 
 ---
 
-                                                                                                                    **Fet per Blai Vergés** 
+**Fet per Blai Vergés** 
 
