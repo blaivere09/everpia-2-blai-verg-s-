@@ -47,3 +47,19 @@ El domini **tecnocampus.cat** disposa de **quatre servidors de noms autoritatius
 Aquests servidors pertanyen a **AWS (Amazon Web Services)** i són els **responsables finals de proporcionar informació autoritativa** sobre aquest domini. 🌐🛠️
 
 ![captura4](img/capt4.png)
+
+## 🧪 Comanda 3: Consulta Detallada SOA
+
+### 💻 Codi utilitzat
+
+```bash
+dig escolapia.cat SOA
+```
+
+### 🔍 Anàlisi
+
+El **correu de l’administrador** és `root.dns1.nominalia.com`, el **número de sèrie** és `1761028965` i el **servidor DNS primari** és `dns1.nominalia.com`.
+
+El registre **SOA (Start of Authority)** actua com el **“document d’identitat”** del domini, ja que conté informació essencial com el responsable de la seva gestió i la data de l’última actualització. 🪪🗓️
+
+![captura5](img/capt5.png)
