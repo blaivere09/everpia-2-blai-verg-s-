@@ -140,3 +140,16 @@ La **resposta és autoritativa** perquè prové directament de la **font origina
 La informació obtinguda és la mateixa que a la comanda anterior, però **molt més fiable**, ja que **no passa per cap servidor intermediari ni memòria cau**. 🧩✅
 
   ![captura8](img/capt8.png)  ![captura9](img/capt9.png) 
+
+  ---
+
+  ## 🧾 Conclusió
+
+Aquesta pràctica ha servit per **entendre com funciona el servei DNS** i com utilitzar eines com **`dig`** i **`nslookup`** per **analitzar dominis**. 🌐🔍
+
+També s’ha vist la **diferència entre respostes autoritatives i no autoritatives**, així com la **utilitat de la resolució local** en xarxes internes, millorant la comprensió del funcionament real de la infraestructura de noms d’Internet. 💡💻
+
+---
+
+                                                                                                                    **Fet per Blai Vergés** 
+
