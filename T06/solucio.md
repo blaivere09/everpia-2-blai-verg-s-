@@ -45,3 +45,5 @@ El domini **tecnocampus.cat** disposa de **quatre servidors de noms autoritatius
 * `ns-130.awsdns-16.com`
 
 Aquests servidors pertanyen a **AWS (Amazon Web Services)** i són els **responsables finals de proporcionar informació autoritativa** sobre aquest domini. 🌐🛠️
+
+![captura4](img/capt4.png)
