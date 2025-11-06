@@ -19,3 +19,5 @@
 ---
 
 # 🏢 Organigrama de l’empresa
+
+![captura2](img/capt2.png)
