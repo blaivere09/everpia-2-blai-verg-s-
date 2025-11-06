@@ -9,3 +9,18 @@ Aquesta guia descriu com dur a terme una **auditoria DNS** emprant les eines mé
 El **DNS (Domain Name System)** actua com una mena d’“agenda de contactes” d’Internet, traduint els **noms de domini** (com ara `google.com`) en **adreces IP** comprensibles pels ordinadors. 🌐💻
 ```
 
+## 🧪 Comanda 1: Consulta Bàsica de Registre A
+
+### 💻 Codi utilitzat
+
+```bash
+dig xtec.cat A
+```
+
+### 🔍 Anàlisi
+
+La **IP de resposta** és `83.247.151.214`, amb un **valor TTL** de `3270` segons.
+El **servidor que va respondre** és `127.0.0.53`, que correspon al **servidor DNS local** del sistema.
+
+El **temps de consulta** va ser de `5 ms`, un resultat molt ràpid.
+El **TTL** indica quant de temps es mantindrà aquesta resposta a la **memòria cau** abans de realitzar una nova consulta. ⚡🧠
