@@ -139,4 +139,4 @@ En aquest cas, la consulta s’ha fet **directament al servidor** `ns-535.awsdns
 La **resposta és autoritativa** perquè prové directament de la **font original**.
 La informació obtinguda és la mateixa que a la comanda anterior, però **molt més fiable**, ja que **no passa per cap servidor intermediari ni memòria cau**. 🧩✅
 
-![captura9](img/capt9.png)   ![captura8](img/capt8.png)
+  ![captura8](img/capt8.png)  ![captura9](img/capt9.png) 
