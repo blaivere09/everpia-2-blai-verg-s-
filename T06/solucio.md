@@ -24,3 +24,5 @@ El **servidor que va respondre** és `127.0.0.53`, que correspon al **servidor D
 
 El **temps de consulta** va ser de `5 ms`, un resultat molt ràpid.
 El **TTL** indica quant de temps es mantindrà aquesta resposta a la **memòria cau** abans de realitzar una nova consulta. ⚡🧠
+
+![cptura3](img/capt3.png)
