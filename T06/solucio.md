@@ -100,4 +100,19 @@ Serà aquest **mode interactiu** el que explorareu en aquesta fase pràctica. �
 
 ---
 
+## 🧪 Comanda 1: Consulta Bàsica no Autoritativa
 
+### 💻 Codi utilitzat
+
+```bash
+nslookup
+```
+
+### 🔍 Anàlisi – Per què és “no autoritativa”?
+
+La resposta és **no autoritativa** perquè prové del **servidor DNS local** (`127.0.0.53`), que ha emmagatzemat la informació a la **memòria cau**.
+
+No s’ha consultat directament els **servidors autoritatius de `tecnocampus.cat`**.
+És com **obtenir una resposta d’algú que ja la coneixia prèviament**, en lloc de demanar-la directament a la **font original**. 🧠💡
+
+![captura7](img/capt7.png)
