@@ -85,3 +85,12 @@ La **IP 147.83.2.135** està associada a diversos **noms de domini de la UPC**, 
 Això indica que **una mateixa adreça IP pot allotjar o donar servei a múltiples webs i serveis diferents alhora**. 🌍💡
 
 ![captura6](img/capt6.png)
+
+```
+# 💻 Comprovació de Resolució amb nslookup (Multiplataforma)
+
+L’eina **nslookup** es troba a pràcticament qualsevol sistema operatiu. ⚙️
+Es pot usar de forma similar a **`dig`**, incloent l’argument directament, o bé executar **`nslookup`** sense arguments per entrar en el **mode interactiu**.
+
+💡 En aquest mode, apareix un *prompt* (`>`), des d’on podreu fer diferents consultes DNS de manera seqüencial.
+Serà aquest **mode interactiu** el que explorareu en aquesta fase pràctica. 🔍🧩
