@@ -54,3 +54,9 @@ El **macroentorn** inclou els factors externs generals que afecten el sector i l
 
 📊 **Conclusió macroentorn:**
 *ETL ILIA* es mou en un entorn favorable per a serveis d’alta especialització, però ha de mantenir-se actualitzada en tecnologia, regulacions i tendències per seguir sent competitiva.
+
+![captura3](img/capt3.png)
+
+---
+
+
