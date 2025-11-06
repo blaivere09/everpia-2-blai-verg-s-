@@ -83,3 +83,5 @@ La **IP 147.83.2.135** està associada a diversos **noms de domini de la UPC**, 
 * entre d’altres.
 
 Això indica que **una mateixa adreça IP pot allotjar o donar servei a múltiples webs i serveis diferents alhora**. 🌍💡
+
+![captura6](img/capt6.png)
