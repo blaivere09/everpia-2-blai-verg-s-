@@ -86,7 +86,9 @@ Això indica que **una mateixa adreça IP pot allotjar o donar servei a múltipl
 
 ![captura6](img/capt6.png)
 
-```
+---
+
+
 # 💻 Comprovació de Resolució amb nslookup (Multiplataforma)
 
 L’eina **nslookup** es troba a pràcticament qualsevol sistema operatiu. ⚙️
