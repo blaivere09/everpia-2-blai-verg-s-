@@ -108,6 +108,8 @@ Es pot usar de forma similar a `dig`, o en **mode interactiu** si s’executa se
 * `server IP` → seleccionar el servidor de noms per a la consulta
 * `exit` → sortir del mode interactiu
 
+![captura2](img/capt2.png)
+
 ---
 
 #### 🔹 Comanda 1: Consulta bàsica no autoritativa
