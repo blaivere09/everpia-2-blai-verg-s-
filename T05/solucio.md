@@ -59,4 +59,37 @@ El **macroentorn** inclou els factors externs generals que afecten el sector i l
 
 ---
 
+## 💼 6. Descripció de la tipologia i patró del negoci
+
+**ETL ILIA** és un **despatx professional** especialitzat en serveis de **consultoria fiscal, legal i laboral**.
+El seu model de negoci combina dues línies principals:
+
+* 🏢 **B2B** (serveis per a empreses)
+* 👤 **B2C** (serveis per a particulars)
+
+L’empresa aposta per la **confiança, la proximitat i la tecnologia** com a pilars fonamentals.
+Manté relacions duradores amb els clients i utilitza eines digitals i **intel·ligència artificial** per millorar l’eficiència, reduir errors i oferir un servei àgil i personalitzat.
+
+📈 **En resum:**
+Un negoci orientat a la qualitat, la innovació i la digitalització dins d’un entorn professional competitiu.
+
+---
+
+## 🤖 7. Aplicar la intel·ligència artificial al disseny del model de negoci
+
+A **ETL ILIA**, la **intel·ligència artificial (IA)** s’utilitza per potenciar i optimitzar els processos interns i externs:
+
+* 🧾 **Gestió documental:** automatització d’arxius i classificació intel·ligent.
+* 💰 **Informes fiscals:** generació automàtica i reducció d’errors humans.
+* ⚖️ **Anàlisi de riscos legals:** detecció preventiva de possibles incidències.
+* 📅 **Gestió de cites i clients:** automatització i millora de l’atenció personalitzada.
+
+La IA garanteix **eficiència, seguretat i compliment legal** amb la nova normativa europea.
+Com a estudiant en pràctiques, participo en aquest procés d’integració tecnològica, **creant GPTs personalitzats** i dissenyant **prompts eficaços** per optimitzar el treball diari del despatx.
+
+---
+
+## 📊 8. DAFO per comprovar la viabilitat potencial del client
+
+*(Secció següent)*
 
