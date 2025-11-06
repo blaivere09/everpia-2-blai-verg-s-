@@ -9,6 +9,7 @@ Aquesta guia descriu com dur a terme una **auditoria DNS** emprant les eines mé
 
 El **DNS (Domain Name System)** actua com una mena d’“agenda de contactes” d’Internet, traduint els **noms de domini** (com ara `google.com`) en **adreces IP** comprensibles pels ordinadors. 🌐💻
 ```
+---
 
 ## 🧪 Comanda 1: Consulta Bàsica de Registre A
 
@@ -27,6 +28,8 @@ El **temps de consulta** va ser de `5 ms`, un resultat molt ràpid.
 El **TTL** indica quant de temps es mantindrà aquesta resposta a la **memòria cau** abans de realitzar una nova consulta. ⚡🧠
 
 ![cptura3](img/capt3.png)
+
+---
 
 ## 🧪 Comanda 2: Consulta de Servidors de Noms (NS)
 
@@ -64,6 +67,8 @@ El **correu de l’administrador** és `root.dns1.nominalia.com`, el **número d
 El registre **SOA (Start of Authority)** actua com el **“document d’identitat”** del domini, ja que conté informació essencial com el responsable de la seva gestió i la data de l’última actualització. 🪪🗓️
 
 ![captura5](img/capt5.png)
+
+---
 
 ## 🧪 Comanda 4: Consulta de resolució inversa
 
@@ -116,3 +121,20 @@ No s’ha consultat directament els **servidors autoritatius de `tecnocampus.cat
 És com **obtenir una resposta d’algú que ja la coneixia prèviament**, en lloc de demanar-la directament a la **font original**. 🧠💡
 
 ![captura7](img/capt7.png)
+
+---
+
+## 🧪 Comanda 2: Consultes autoritatives
+
+### 💻 Codi utilitzat
+
+```bash
+nslookup
+```
+
+### 🔍 Anàlisi – Diferències amb la comanda 1
+
+En aquest cas, la consulta s’ha fet **directament al servidor** `ns-535.awsdns-02.net`, que és un **servidor autoritatiu**.
+
+La **resposta és autoritativa** perquè prové directament de la **font original**.
+La informació obtinguda és la mateixa que a la comanda anterior, però **molt més fiable**, ja que **no passa per cap servidor intermediari ni memòria cau**. 🧩✅
