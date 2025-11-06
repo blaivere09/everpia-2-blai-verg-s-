@@ -63,3 +63,23 @@ El **correu de l’administrador** és `root.dns1.nominalia.com`, el **número d
 El registre **SOA (Start of Authority)** actua com el **“document d’identitat”** del domini, ja que conté informació essencial com el responsable de la seva gestió i la data de l’última actualització. 🪪🗓️
 
 ![captura5](img/capt5.png)
+
+## 🧪 Comanda 4: Consulta de resolució inversa
+
+### 💻 Codi utilitzat
+
+```bash
+dig -x 147.83.2.135
+```
+
+### 🔍 Anàlisi
+
+La **IP 147.83.2.135** està associada a diversos **noms de domini de la UPC**, com ara:
+
+* `barcelonatech.upc.edu`
+* `upc.edu`
+* `www.upc.es`
+* `upc.cat`
+* entre d’altres.
+
+Això indica que **una mateixa adreça IP pot allotjar o donar servei a múltiples webs i serveis diferents alhora**. 🌍💡
