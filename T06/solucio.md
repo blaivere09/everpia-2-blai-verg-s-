@@ -1,4 +1,5 @@
 # 🧩 T06: Fonaments del servei DNS
+---
 
 ```{"variant":"standard","id":"73152","title":"Fase Pràctica: Diagnosi de Noms (Auditoria amb CLI)"}
 # 🧰 Fase Pràctica: Diagnosi de Noms (Auditoria amb CLI)
@@ -96,3 +97,7 @@ Es pot usar de forma similar a **`dig`**, incloent l’argument directament, o b
 
 💡 En aquest mode, apareix un *prompt* (`>`), des d’on podreu fer diferents consultes DNS de manera seqüencial.
 Serà aquest **mode interactiu** el que explorareu en aquesta fase pràctica. 🔍🧩
+
+---
+
+
