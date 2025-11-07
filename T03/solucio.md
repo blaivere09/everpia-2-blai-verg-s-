@@ -141,3 +141,16 @@ mkfs.ext4 /dev/volgrup/lv01
 mount /dev/volgrup/lv01 /mnt/lv01
 
 ![captura8](img/capt8.png)
+
+---
+
+Ara ja tindríem el volum **inicialitzat**, però per poder **utilitzar-lo**, cal **muntar-lo** a la carpeta que hem creat prèviament.  
+
+### ⚙️ Muntar el volum manualment
+```bash
+mount /dev/volgrup/lv01 /mnt/lv01/
+
+```
+
+nano /etc/fstab
+
