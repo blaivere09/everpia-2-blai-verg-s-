@@ -111,3 +111,16 @@ vgextend volgrup /dev/sdd
 vgdisplay
 
 ![captura6](img/capt6.png)
+
+---
+
+Per crear un **volum lògic (LV)**, hem d’indicar la **mida**, el **grup de volums (VG)** i el **nom** que volem assignar-li.  
+
+La sintaxi és la següent:
+
+```bash
+lvcreate -L [Mida] -n [Nom_del_Volum_Lògic] [Nom_del_Grup]
+
+```
+lvcreate -L 200M -n lv01 volgrup
+
