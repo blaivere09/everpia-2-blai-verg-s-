@@ -213,3 +213,23 @@ touch /mnt/lv01/file02
 touch /mnt/lv01/file03
 
 ```
+El **sistema de mirall** ja estaria **creat correctament**. 🪞✅  
+
+---
+
+## 📸 3. Creació d’un snapshot del nostre volum lògic
+
+Ara crearem un **snapshot** (còpia temporal) del nostre **volum lògic (LV)**.  
+Abans de fer-ho, crearem alguns **arxius de prova** dins el volum per poder comprovar el funcionament.  
+
+Per crear-los, utilitzarem la comanda `touch`:
+
+```bash
+touch /mnt/lv01/file01
+touch /mnt/lv01/file02
+touch /mnt/lv01/file03
+
+
+```
+
+![captura11](img/capt11.png)
