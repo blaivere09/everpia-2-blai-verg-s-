@@ -157,3 +157,36 @@ nano /etc/fstab
 ![captura9](img/capt9.png)
 
 ---
+
+## 📘 Significat dels camps a /etc/fstab
+
+Els camps de la línia que hem utilitzat tenen el següent significat:
+
+- `/dev/volgrup/lv01`: unitat que es vol muntar.  
+- `/mnt/lv01`: punt de muntatge.  
+- `ext4`: per indicar el sistema de fitxers utilitzat.  
+- `defaults`: opcions de muntatge per defecte (es podria indicar si és només lectura, etc.).  
+- `dump`: `0` per indicar que el sistema de fitxers **no s’ha de bolcar** (configuració normal actualment).  
+- `pass`: `0` per indicar que **no es faran comprovacions** d’aquest volum en arrencar el sistema.  
+
+---
+
+## 📏 Modificar la mida d’un volum lògic (LV)
+
+Si volem **modificar el tamany** d’un volum lògic, utilitzarem normalment aquestes comandes:
+
+- `lvextend`: només serveix per **estendre** el volum.  
+- `lvreduce`: permet **reduir** la mida.  
+- També podem usar la comanda `lvresize`.
+
+> ⚠️ **IMPORTANT:** Sempre que vulguem modificar un LV, **haurem de desmuntar-lo** perquè **no estigui en ús**.
+
+---
+
+## 🪞 2. Creació d’un mirall (lvm_mirror)
+
+Per crear un **mirall simple** del nostre volum lògic, haurem de fer servir la comanda següent:
+
+```bash
+lvcreate -L 90M -m1 -n mirror1v volgrup
+
