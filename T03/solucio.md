@@ -85,4 +85,5 @@ sudo apt install lvm2
 
 Vols que continuï amb el següent pas — la creació del **Volume Group (VG)** i el **Logical Volume (LV)** amb les seves comandes (`vgcreate`, `lvcreate`, etc.) en el mateix estil Markdown?
 
-
+```
+![captura4](img/capt4.png)
