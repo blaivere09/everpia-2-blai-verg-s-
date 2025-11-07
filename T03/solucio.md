@@ -55,3 +55,20 @@ Com a **configuració inicial**, i amb la màquina **aturada**, s’han creat **
 Això permet disposar d’un **emmagatzematge més elevat** per realitzar totes les proves i configuracions necessàries. 💽💡
 
 ![captura2](img/capt2.png)
+
+---
+
+## 💽 Verificació dels Discs Virtuals
+
+Acte seguit, hem obert la **màquina virtual** i hem comprovat, amb la següent comanda, que el sistema hagi detectat els dos discos creats anteriorment:
+
+```bash
+fdisk -l
+
+```
+
+Vols que continuï amb el següent pas (per exemple, la creació de particions amb `pvcreate`, `vgcreate`, etc.) en el mateix estil Markdown? Puc seguir el fil i fer-te tota la documentació pas a pas.
+
+![captura3](img/capt3.png)
+
+
