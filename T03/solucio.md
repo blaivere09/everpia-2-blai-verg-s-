@@ -154,3 +154,6 @@ mount /dev/volgrup/lv01 /mnt/lv01/
 
 nano /etc/fstab
 
+![captura9](img/capt9.png)
+
+---
