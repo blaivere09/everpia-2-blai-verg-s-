@@ -190,3 +190,6 @@ Per crear un **mirall simple** del nostre volum lògic, haurem de fer servir la 
 ```bash
 lvcreate -L 90M -m1 -n mirror1v volgrup
 
+```
+
+![captura10](img/capt10.png)
