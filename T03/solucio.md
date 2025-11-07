@@ -233,3 +233,16 @@ touch /mnt/lv01/file03
 ```
 
 ![captura11](img/capt11.png)
+
+---
+
+Seguidament, crearem la **instantània (snapshot)** del nostre volum lògic amb la comanda `lvcreate`.  
+
+Aquesta instantània ens permetrà **restaurar l’estat anterior** del volum en cas que es modifiqui o s’esborri informació.  
+
+```bash
+lvcreate -L 100M -s -n copialv01 /dev/volgrup/lv01
+
+```
+
+![captura12](img/capt12.png)
