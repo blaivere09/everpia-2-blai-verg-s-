@@ -93,3 +93,21 @@ Vols que continuï amb el següent pas — la creació del **Volume Group (VG)**
 Ara crearem un **grup de volums (VG)** i els **assignarem als dos discs** amb la comanda `vgcreate`.
 
 ![captura5](img/capt5.png)
+
+---
+
+Posteriorment, podem **crear o eliminar volums** segons sigui necessari.  
+
+### ➕ Afegir volums
+Per afegir un nou disc a un grup de volums existent, utilitzem la comanda:
+
+```bash
+vgextend [nom_del_vg] [disc]
+
+```
+
+vgextend volgrup /dev/sdd
+
+vgdisplay
+
+
