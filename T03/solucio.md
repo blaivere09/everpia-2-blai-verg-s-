@@ -246,3 +246,13 @@ lvcreate -L 100M -s -n copialv01 /dev/volgrup/lv01
 ```
 
 ![captura12](img/capt12.png)
+
+---
+
+En aquesta comanda utilitzem l’opció `-s` per indicar que es tracta d’un **snapshot**. 📸  
+
+Per **veure tots els volums lògics (LV)** que tenim creats i comprovar com la **còpia (snapshot)** apunta a l’**original**, farem servir la comanda següent:
+
+```bash
+lvs volgrup
+
