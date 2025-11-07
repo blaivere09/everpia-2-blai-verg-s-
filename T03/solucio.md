@@ -71,4 +71,18 @@ Vols que continuï amb el següent pas (per exemple, la creació de particions a
 
 ![captura3](img/capt3.png)
 
+---
+
+## ⚙️ 1. Configuració inicial d’un grup de volums (VG) i un volum lògic (LV)
+
+Per començar, hem creat els **volums físics** amb la comanda següent:
+
+```bash
+sudo pvcreate
+
+sudo apt install lvm2
+
+
+Vols que continuï amb el següent pas — la creació del **Volume Group (VG)** i el **Logical Volume (LV)** amb les seves comandes (`vgcreate`, `lvcreate`, etc.) en el mateix estil Markdown?
+
 
