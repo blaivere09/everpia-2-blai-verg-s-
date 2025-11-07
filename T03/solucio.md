@@ -110,4 +110,4 @@ vgextend volgrup /dev/sdd
 
 vgdisplay
 
-
+![captura6](img/capt6.png)
