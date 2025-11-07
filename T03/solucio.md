@@ -87,3 +87,9 @@ Vols que continuï amb el següent pas — la creació del **Volume Group (VG)**
 
 ```
 ![captura4](img/capt4.png)
+
+---
+
+Ara crearem un **grup de volums (VG)** i els **assignarem als dos discs** amb la comanda `vgcreate`.
+
+![captura5](img/capt5.png)
