@@ -54,3 +54,4 @@ S'ha d'utilitzar la distribució **Zorin OS** (o una alternativa Linux compatibl
 Com a **configuració inicial**, i amb la màquina **aturada**, s’han creat **dos discs virtuals de 10 GB cadascun**.  
 Això permet disposar d’un **emmagatzematge més elevat** per realitzar totes les proves i configuracions necessàries. 💽💡
 
+![captura2](img/capt2.png)
