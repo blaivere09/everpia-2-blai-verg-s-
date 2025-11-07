@@ -125,3 +125,18 @@ lvcreate -L [Mida] -n [Nom_del_Volum_Lògic] [Nom_del_Grup]
 lvcreate -L 200M -n lv01 volgrup
 
 ![captura7](img/capt7.png)
+
+---
+
+Cada **volum lògic (LV)** és com una **partició del disc**, per tant cal **muntar-lo correctament** perquè sigui funcional dins del sistema.  
+
+Per fer-ho, primer hem de **crear una carpeta** on muntarem el volum dins el sistema d’arxius de la màquina.  
+
+### 🗂️ Crear la carpeta de muntatge
+```bash
+mkdir /mnt/lv01
+
+```
+mkfs.ext4 /dev/volgrup/lv01
+mount /dev/volgrup/lv01 /mnt/lv01
+
