@@ -140,3 +140,4 @@ mkdir /mnt/lv01
 mkfs.ext4 /dev/volgrup/lv01
 mount /dev/volgrup/lv01 /mnt/lv01
 
+![captura8](img/capt8.png)
