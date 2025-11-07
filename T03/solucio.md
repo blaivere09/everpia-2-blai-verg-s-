@@ -124,3 +124,4 @@ lvcreate -L [Mida] -n [Nom_del_Volum_Lògic] [Nom_del_Grup]
 ```
 lvcreate -L 200M -n lv01 volgrup
 
+![captura7](img/capt7.png)
