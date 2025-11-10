@@ -349,3 +349,9 @@ S’hi configura una **mida màxima de 10 GB** dins d’un **grup amb una capaci
 Tot seguit, anirem a l’opció de **crear un nou espai d’emmagatzematge**.
 
 ![captura18](img/capt18.png)
+
+---
+
+A més, s’hi està afegint una **nova unitat (VBOX HARDDISK de 10 GB)** al grup per **optimitzar i distribuir les dades**.
+
+![captura19](img/capt19.png)
