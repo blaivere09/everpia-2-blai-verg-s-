@@ -164,3 +164,17 @@ ping server.innovatech25.test
 ```
 
 ![captura22](img/capt22.png)
+
+---
+
+Acte seguit, he fet:
+
+```bash
+hostname -f
+
+```
+
+hostnamectl set-hostname client.innovatech25.test
+
+hostname -f
+
