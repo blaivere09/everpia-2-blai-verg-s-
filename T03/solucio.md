@@ -341,3 +341,11 @@ Ara s’està creant un **espai d’emmagatzematge** a **Windows** amb el nom **
 S’hi configura una **mida màxima de 10 GB** dins d’un **grup amb una capacitat total de 18,7 GB**.
 
 ![captura17](img/capt17.png)
+
+---
+
+## 📊 Resiliència de Paritat
+
+Tot seguit, anirem a l’opció de **crear un nou espai d’emmagatzematge**.
+
+![captura18](img/capt18.png)
