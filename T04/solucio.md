@@ -218,3 +218,15 @@ Acte seguit, he tornat a posar la contrasenya que vaig posar a **LDAP**, en aque
 Un cop això, ja m’ha carregat, i això significa que ja he canviat les credencials i no he tingut cap error.
 
 ![captura29](img/capt29.png)
+
+---
+
+Ara faré una consulta amb **LDAP** des del client per veure si connecta amb el servidor.  
+El codi que he utilitzat és el següent:
+
+```bash
+ldapsearch -X -D 'cn=admin,dc=innovatech25,dc=test' -W -H ldap://server.innovatech25.test -b 'dc=innovatech25,dc=test' objectClass=posixAccount uid
+
+```
+
+![captura30](img/capt30.png)
