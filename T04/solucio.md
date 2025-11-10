@@ -242,3 +242,14 @@ sudo nano /etc/nsswitch.conf
 ```
 
 ![captura31](img/capt31.png)
+
+---
+
+He editat l'arxiu:
+
+```bash
+sudo nano /etc/pam.d/common-password
+
+```
+
+![captura32](img/capt32.png)
