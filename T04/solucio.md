@@ -111,5 +111,15 @@ ldapadd -D "cn=admin,dc=innovatech25,dc=test" -W -f OU_users.ldif
 
 ![captura14](img/capt14.png)
 
+---
+
+# COMPTE DE LDAP
+
+En primer lloc, he accedit a **LDAP Account Manager** per poder manipular des de dins.
+
+En els menús, he anat a la part de **Edit Server Profiles** i he editat les dades del meu servidor posant el que em demana la guia:
+
+- **Nom:** lam  
+- **Contrasenya:** ***
 
 
