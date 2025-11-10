@@ -363,10 +363,14 @@ A més, s’hi està afegint una **nova unitat (VBOX HARDDISK de 10 GB)** al gru
 ## 🔁 Resiliència de Mirall Triple
 
 A continuació, es mostra la configuració d’una **resiliència de mirall triple**, on es creen diverses **unitats virtuals** per a l’emmagatzematge.  
+Seguidament, s’hi afegeixen **dues noves unitats (VBOX HARDDISK de 10 GB cadascuna)** per **distribuir i optimitzar les dades** dins del grup.
 
 ![captura21](img/capt21.png)
 
 ![captura22](img/capt22.png)
-Seguidament, s’hi afegeixen **dues noves unitats (VBOX HARDDISK de 10 GB cadascuna)** per **distribuir i optimitzar les dades** dins del grup.
 
 ![captura21](img/capt23.png)
+
+---
+
+*Fet per Blai Vergés*
