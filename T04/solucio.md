@@ -178,3 +178,6 @@ hostnamectl set-hostname client.innovatech25.test
 
 hostname -f
 
+![captura23](img/capt23.png)
+
+---
