@@ -258,3 +258,17 @@ lvs volgrup
 
 ```
 ![captura13](img/capt13.png)
+
+---
+
+Si volem veure el contingut que té aquesta còpia muntarem el **LV** per poder veure el contingut que té dins.  
+Per fer-ho, crearem una nova carpeta i seguidament muntarem el volum a aquesta:
+
+```bash
+mkdir /mnt/copia
+mount /dev/volgrup/copialv01 /mnt/copia
+
+```
+
+ls /mnt/copia
+
