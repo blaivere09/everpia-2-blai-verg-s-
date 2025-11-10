@@ -329,3 +329,5 @@ Després d'haver instal·lat **Windows 11**, a la configuració inicial s’ha c
 
 Administrar discos
 Seguidament administrarem els discos de 10 GB simulats 1,2 i 3 que prèviament hem creat. Usarem el següent disc de partició per els discos seleccionats “MBR (Registre d’arrencada mestre).
+
+![captura16](img/capt16.png)
