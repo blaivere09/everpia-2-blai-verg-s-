@@ -264,3 +264,15 @@ sudo nano /etc/pam.d/common-password
 ```
 
 ![captura33](img/capt33.png)
+
+---
+
+En primer lloc, m’he posat **en root** utilitzant el codi:
+
+```bash
+sudo su
+
+```
+
+systemctl restart nscd
+getent passwd | tail
