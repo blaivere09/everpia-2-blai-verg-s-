@@ -190,3 +190,5 @@ sudo apt install libnss-ldap libpam-ldap-utils nscd -y
 ```
 
 ⚠️ **IMPORTANT:** Hem de canviar el nom de **ldapi** per **ldap** i treure una de les 3 `///`.
+
+![captura24](img/capt24.png)
