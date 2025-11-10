@@ -139,3 +139,9 @@ Un cop a dins, he posat l'adreça corresponent per no tenir cap error quan confi
 ---
 
 ![captura19](img/capt19.png)
+
+---
+
+He canviat l'idioma a **espanyol**.
+
+![captura20](img/capt20.png)
