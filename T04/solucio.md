@@ -208,3 +208,13 @@ Un cop donat a **Acceptar**, he canviat les credencials per **innovatech25** i d
 Un altre cop, he tornat a manipular les credencials i posar **admin.innovatech25** i **test**.
 
 ![captura28](img/capt28.png)
+
+---
+
+Acte seguit, he tornat a posar la contrasenya que vaig posar a **LDAP**, en aquest cas:
+
+- **Contrasenya:** p@ssw0rd
+
+Un cop això, ja m’ha carregat, i això significa que ja he canviat les credencials i no he tingut cap error.
+
+![captura29](img/capt29.png)
