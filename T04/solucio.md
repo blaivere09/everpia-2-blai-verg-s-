@@ -122,4 +122,6 @@ En els menús, he anat a la part de **Edit Server Profiles** i he editat les dad
 - **Nom:** lam  
 - **Contrasenya:** ***
 
+![captura15](img/capt15.png)
 
+![captura16](img/capt16.png)
