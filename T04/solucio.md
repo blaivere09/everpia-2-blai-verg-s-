@@ -162,3 +162,5 @@ En primer lloc, he fet **ping** utilitzant el codi:
 ping server.innovatech25.test
 
 ```
+
+![captura22](img/capt22.png)
