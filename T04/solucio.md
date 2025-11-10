@@ -230,3 +230,15 @@ ldapsearch -X -D 'cn=admin,dc=innovatech25,dc=test' -W -H ldap://server.innovate
 ```
 
 ![captura30](img/capt30.png)
+
+---
+
+Acte seguit, he configurat l'arxiu **nsswitch.conf**.  
+Per entrar i modificar els canvis, he utilitzat el codi:
+
+```bash
+sudo nano /etc/nsswitch.conf
+
+```
+
+![captura31](img/capt31.png)
