@@ -201,4 +201,4 @@ Un cop donat a **Acceptar**, he canviat les credencials per **innovatech25** i d
 
 ![captura26](img/capt26.png)
 
-![captura27](img/capt27)
+![captura27](img/capt27.png)
