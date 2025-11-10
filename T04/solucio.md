@@ -192,3 +192,13 @@ sudo apt install libnss-ldap libpam-ldap-utils nscd -y
 ⚠️ **IMPORTANT:** Hem de canviar el nom de **ldapi** per **ldap** i treure una de les 3 `///`.
 
 ![captura24](img/capt24.png)
+
+---
+
+Un cop donat a **Acceptar**, he canviat les credencials per **innovatech25** i després he posat **test**.
+
+![captura25](img/capt25.png)
+
+![captura26](img/capt26.png)
+
+![captura27](img/capt27)
