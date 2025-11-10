@@ -273,3 +273,6 @@ mount /dev/volgrup/copialv01 /mnt/copia
 ls /mnt/copia
 
 ![captura14](img/capt14.png)
+
+Ara ja tindrem creada la **snapshot**.
+
