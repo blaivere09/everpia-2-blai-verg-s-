@@ -147,3 +147,18 @@ He canviat l'idioma a **espanyol**.
 ![captura20](img/capt20.png)
 
 ![captura21](img/capt21.png)
+
+---
+
+I un cop acabats tots els canvis, he pogut veure que si fas un error des de dins, això et perjudica a l'hora de desar-los.
+
+---
+
+# FASE 2 (CLIENT) 🚀
+
+En primer lloc, he fet **ping** utilitzant el codi:
+
+```bash
+ping server.innovatech25.test
+
+```
