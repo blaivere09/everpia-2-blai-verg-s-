@@ -331,3 +331,13 @@ Administrar discos
 Seguidament administrarem els discos de 10 GB simulats 1,2 i 3 que prèviament hem creat. Usarem el següent disc de partició per els discos seleccionats “MBR (Registre d’arrencada mestre).
 
 ![captura16](img/capt16.png)
+
+---
+
+## 🔁 Resiliència de Mirall
+
+Ara s’està creant un **espai d’emmagatzematge** a **Windows** amb el nom **“Espacio de almacenamiento”**, utilitzant el **sistema de fitxers NTFS** i el tipus de **resistència Reflex doble** per protegir les dades.  
+
+S’hi configura una **mida màxima de 10 GB** dins d’un **grup amb una capacitat total de 18,7 GB**.
+
+![captura17](img/capt17.png)
