@@ -99,3 +99,15 @@ Algunes eines que ens ofereix **slapcat** són:
 3️⃣ **ldapdelete**: permet eliminar objectes, inclòs el propi directori.  
 4️⃣ **ldappasswd**: s’utilitza per canviar la contrasenya d’un usuari.  
 5️⃣ **ldapmodify**: serveix per editar una entrada ja existent.
+
+He creat un fitxer `OU_users.ldif` amb la informació de la nova unitat **“Usuaris”**.
+
+Després, amb el codi:
+
+```bash
+ldapadd -D "cn=admin,dc=innovatech25,dc=test" -W -f OU_users.ldif
+
+```
+
+
+
