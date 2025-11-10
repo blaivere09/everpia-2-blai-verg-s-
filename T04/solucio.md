@@ -135,3 +135,7 @@ Un cop a dins, he posat l'adreça corresponent per no tenir cap error quan confi
 ---
 
 ![captura18](img/capt18.png)
+
+---
+
+![captura19](img/capt19.png)
