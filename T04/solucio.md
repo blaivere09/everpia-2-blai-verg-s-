@@ -109,5 +109,7 @@ ldapadd -D "cn=admin,dc=innovatech25,dc=test" -W -f OU_users.ldif
 
 ```
 
+![captura14](img/capt14.png)
+
 
 
