@@ -131,3 +131,7 @@ En els menús, he anat a la part de **Edit Server Profiles** i he editat les dad
 Un cop a dins, he posat l'adreça corresponent per no tenir cap error quan confirmi els canvis.
 
 ![captura17](img/capt17.png)
+
+---
+
+![captura18](img/capt18.png)
