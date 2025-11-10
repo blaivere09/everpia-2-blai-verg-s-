@@ -287,3 +287,6 @@ I per finalitzar, he editat l'arxiu indicat per permetre l’inici de sessió gr
 sudo nano /etc/pam.d/gdm-launch-environment
 
 ```
+![captura35](img/capt35.png)
+
+---
