@@ -369,4 +369,4 @@ A continuació, es mostra la configuració d’una **resiliència de mirall trip
 ![captura22](img/capt22.png)
 Seguidament, s’hi afegeixen **dues noves unitats (VBOX HARDDISK de 10 GB cadascuna)** per **distribuir i optimitzar les dades** dins del grup.
 
-![captura21](img/capt21.png)
+![captura21](img/capt23.png)
