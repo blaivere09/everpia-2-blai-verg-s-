@@ -355,3 +355,5 @@ Tot seguit, anirem a l’opció de **crear un nou espai d’emmagatzematge**.
 A més, s’hi està afegint una **nova unitat (VBOX HARDDISK de 10 GB)** al grup per **optimitzar i distribuir les dades**.
 
 ![captura19](img/capt19.png)
+
+![captura20](img/capt20.png)
