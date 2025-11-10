@@ -276,3 +276,14 @@ sudo su
 
 systemctl restart nscd
 getent passwd | tail
+
+![captura34](img/capt34.png)
+
+---
+
+I per finalitzar, he editat l'arxiu indicat per permetre l’inici de sessió gràfica, utilitzant el codi:
+
+```bash
+sudo nano /etc/pam.d/gdm-launch-environment
+
+```
