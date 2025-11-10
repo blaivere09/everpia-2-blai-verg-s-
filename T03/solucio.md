@@ -276,3 +276,50 @@ ls /mnt/copia
 
 Ara ja tindrem creada la **snapshot**.
 
+---
+
+
+
+# Part Windows: Espais d'Emmagatzematge (Storage Spaces)
+
+S'ha d'utilitzar **Windows 11** per demostrar les configuracions possibles mitjançant els **Espais d'Emmagatzematge (Storage Spaces)**.
+
+---
+
+## 🔧 Requisits de la Implementació i Demostració
+
+### ⚙️ Configuració inicial
+**Creació d'un Storage Pool:**  
+Crear un pool d'emmagatzematge inicialment amb **tres discos de 10 GB (simulats)**.
+
+---
+
+## 🧩 Estudi de Configuracions
+
+### 1. Resiliència de Mirall (*Mirroring*)
+- Usar **dos dels discos**.  
+- Comprovar que ofereix **alta disponibilitat**.
+
+### 2. Mirall triple
+- Desfer l’espai anterior i crear-ne un amb **els tres discos** configurat com a **mirall triple**.  
+- **Justificar** quins avantatges té respecte al mirroring.
+
+### 3. Resiliència de Paritat (*Parity*)
+- Explicar la seva **eficiència d'espai** en comparació amb el mirall.  
+- Afegir tants **discos de 10 GB** com siguin necessaris.
+
+---
+
+## 🖥️ Demostració de la Gestió
+Mostrar com es visualitza **l'estat dels discos i del pool** des de la **consola de gestió de Windows**, simulant la facilitat de manteniment.
+
+---
+
+### 🔐 PIN
+`132465`
+
+---
+
+### 📋 Nota
+Després d'haver instal·lat **Windows 11**, a la configuració inicial s’ha creat un **pool d'emmagatzematge amb tres discos de 10 GB (simulats)**.
+
