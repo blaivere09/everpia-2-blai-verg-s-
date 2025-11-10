@@ -256,3 +256,5 @@ Per **veure tots els volums lògics (LV)** que tenim creats i comprovar com la *
 ```bash
 lvs volgrup
 
+```
+![captura13](img/capt13.png)
