@@ -324,3 +324,8 @@ Mostrar com es visualitza **l'estat dels discos i del pool** des de la **consola
 Després d'haver instal·lat **Windows 11**, a la configuració inicial s’ha creat un **pool d'emmagatzematge amb tres discos de 10 GB (simulats)**.
 
 ![captura15](img/capt15.png)
+
+---
+
+Administrar discos
+Seguidament administrarem els discos de 10 GB simulats 1,2 i 3 que prèviament hem creat. Usarem el següent disc de partició per els discos seleccionats “MBR (Registre d’arrencada mestre).
