@@ -181,3 +181,12 @@ hostname -f
 ![captura23](img/capt23.png)
 
 ---
+
+A continuació, he instal·lat els mòduls necessaris per poder usar **libpam** i **nss** utilitzant el codi:
+
+```bash
+sudo apt install libnss-ldap libpam-ldap-utils nscd -y
+
+```
+
+⚠️ **IMPORTANT:** Hem de canviar el nom de **ldapi** per **ldap** i treure una de les 3 `///`.
