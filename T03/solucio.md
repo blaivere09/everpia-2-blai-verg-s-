@@ -323,3 +323,4 @@ Mostrar com es visualitza **l'estat dels discos i del pool** des de la **consola
 ### 📋 Nota
 Després d'haver instal·lat **Windows 11**, a la configuració inicial s’ha creat un **pool d'emmagatzematge amb tres discos de 10 GB (simulats)**.
 
+![captura15](img/capt15.png)
