@@ -253,3 +253,14 @@ sudo nano /etc/pam.d/common-password
 ```
 
 ![captura32](img/capt32.png)
+
+---
+
+Acte seguit, he editat l'arxiu:
+
+```bash
+sudo nano /etc/pam.d/common-password
+
+```
+
+![captura33](img/capt33.png)
