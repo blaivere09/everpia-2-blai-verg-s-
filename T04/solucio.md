@@ -299,3 +299,14 @@ Un cop quan iniciem la sessió podrem veure que l’usuari està en el grup que 
 
 ---
 
+![captura38](img/capt38.png)
+
+Ara ja podem accedir a diferents usuaris gestionats que hem creat amb LDAP des de les nostres màquines.
+
+---
+
+*Fet per Blai Vergés*
+
+---
+
+
