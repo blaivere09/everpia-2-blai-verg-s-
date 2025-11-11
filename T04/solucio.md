@@ -290,3 +290,12 @@ sudo nano /etc/pam.d/gdm-launch-environment
 ![captura35](img/capt35.png)
 
 ---
+
+![captura36](img/capt36.png)
+
+![captura27](img/capt37.png)
+
+Un cop quan iniciem la sessió podrem veure que l’usuari està en el grup que hem assignat.
+
+---
+
