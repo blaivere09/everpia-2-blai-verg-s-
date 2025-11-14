@@ -280,6 +280,24 @@ Ara ja tindrem creada la **snapshot**.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
 # Part Windows: Espais d'Emmagatzematge (Storage Spaces)
 
 S'ha d'utilitzar **Windows 11** per demostrar les configuracions possibles mitjançant els **Espais d'Emmagatzematge (Storage Spaces)**.
